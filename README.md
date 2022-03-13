@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Vulkan, DPC++**
 
-- 👯 I’m looking to collaborate on **ZakLib (dm me on my discord to join team)**
-
-- 🤝 I’m looking for help with **ZakLib: edited raylib that use Vulkan**
-
 - 💬 Ask me about **Raylib, C++/C, Html, Css, Js, Ruby**
 
 - ⚡ Fun fact **I understand 23 Programming Langue In all my 4 years road on learn programming**
