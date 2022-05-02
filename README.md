@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <h4>discord (y0upwn3d#1891)</h4>
+  <h4>discord (archuser555#3233)</h4>
 </p>
 <h1>More</h1>
 <h3><a href="https://metrics.lecoq.io/about/archuser555">metrics</a></h3>
