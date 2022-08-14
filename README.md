@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Raylib, C++/C, Html, Css, Js, Ruby**
 
-- ⚡ Fun fact **I understand 23 Programming Langue In all my 4 years road on learn programming**
+- ⚡ Fun fact **I understand 23 Programming Langue In all my 7 years road on learn programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
