@@ -3,11 +3,11 @@
 
 - I’m currently working on [my_first_calculator.cpp](https://github.com/archuser555/my_first_calculator.cpp/)
 
-- 🌱 I’m currently learning **Svelte & Git**
+- 🌱 I’m currently learning **Vue.js & Finance**
 
-- 💬 Ask me about **Rust, Machine Learning, Ai, Js**
+- 💬 Ask me about **Rust, Svelte, C/C++, LaTex**
 
-- ⚡ Fun fact **I have a capybara**
+- ⚡ Fun fact **I Love Capybaras :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
