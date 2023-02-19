@@ -3,7 +3,7 @@
 
 - I’m currently working on [my_first_calculator.cpp](https://github.com/archuser555/my_first_calculator.cpp/)
 
-- 🌱 I’m currently learning **Vue.js & Finance**
+- 🌱 I’m currently learning **React & Node.js**
 
 - 💬 Ask me about **Rust, Svelte, C/C++, LaTex**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <h4>discord (draid#3233)</h4>
+  <h4>discord (Draid#3233)</h4>
 </p>
 <h1>More</h1>
 <h3><a href="https://metrics.lecoq.io/about/archuser555">metrics</a></h3>
