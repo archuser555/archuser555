@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anass Zakar (archuser555)</h1>
 <h3 align="center">A Rust Enjoyer, Linux Fan, Python Hater</h3>
 
-- I’m currently working on [something *amazing*](https://en.wikipedia.org/wiki/Kasparov%27s_Immortal)
+- I’m currently working on [something *amazing*](https://en.wikipedia.org/wiki/Kasparov's_Immortal)
 
 - 🌱 I’m currently learning **how does the RSA works :P**
 
